@@ -5,6 +5,8 @@ type: widget_page
 # Homepage is headless, other widget pages are not.
 headless: true
 
+# Buttons section should be properly formatted
+content:
   - block: buttons
     content:
       buttons:
@@ -22,10 +24,7 @@ design:
   background:
     image:
       filename: bg-hue.svg
-    
+
 appearance:
   theme_default: light
-
-
-
 ---

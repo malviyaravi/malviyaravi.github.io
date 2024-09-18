@@ -28,12 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Cyber Security
+      tag: CS
+    - name: Cyber Security Tools  
+      tag: Tool
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    
 
 design:
   columns: '1'

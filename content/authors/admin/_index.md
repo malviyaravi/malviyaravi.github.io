@@ -10,7 +10,7 @@ last_name: Kumar
 superuser: true
 
 # Role/position
-role: 'Researcher'
+role: 'Assistant Professor'
 
 # Status emoji
 status:
@@ -18,11 +18,11 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: IIITA
-    url: "https://www.iiita.ac.in"
+  - name: GLBITM
+    url: "https://www.glbitm.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing, and programmable matter.
+bio: My research interests include Cyber Security, Web Security, and Digital Forensics.
 
 # Interests
 # interests:

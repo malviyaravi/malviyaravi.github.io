@@ -50,7 +50,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-          name: github-pages-artifact  # Changed artifact name here
+          name: github-pages  # Ensure the name matches "github-pages"
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
